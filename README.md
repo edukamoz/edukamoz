@@ -6,6 +6,7 @@ Esse perfil foi criado para adicionar todos os projetos desenvolvidos durante mi
 
 ### Meu LinkedIn:
 
+![image](linkedin.com{(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)})
 ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ### Hards Skills:
