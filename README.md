@@ -6,7 +6,7 @@ Esse perfil foi criado para adicionar todos os projetos desenvolvidos durante mi
 
 ### Meu LinkedIn:
 
-<a href="https://www.linkedin.com/in/edukamoz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a/>
+<a href="https://www.linkedin.com/in/eduardo-kamo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a/>
 
 ### Hards Skills:
 
