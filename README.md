@@ -1,30 +1,30 @@
-![Banner do Perfil](banner.png)
+![Profile Banner](banner.png)
 
 <div align="center">
-  <h1>Olá, eu sou o Eduardo 👋</h1>
-  <h3>Um estudante apaixonado por tecnologia e soluções criativas.</h3>
+  <h1>Hi, I'm Eduardo 👋</h1>
+  <h3>A student passionate about technology and creative solutions.</h3>
 </div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eduardo-kamo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:eduardokamoz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/edukamoz" target="_blank"><img src="https://img.shields.io/badge/Meu%20Portfólio-000?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
+  <a href="https://github.com/edukamoz" target="_blank"><img src="https://img.shields.io/badge/My%20Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
 </p>
 
 ---
 
-### Sobre Mim
+### About Me
 
-* 🔭 Atualmente estou focado no projeto Verdin.
-* 👯 Procuro colaborar em projetos que envolvam Backend com Python.
-* 💬 Fale comigo sobre: desenvolvimento, boas práticas, e qualquer coisa do universo tech!
+* 🔭 I’m currently focused on the Verdin project.
+* 👯 I’m looking to collaborate on projects involving Backend with Python.
+* 💬 Ask me about: software development, best practices, or anything from the tech universe!
 
 ---
 
-### 🎯 Foco Atual
+### 🎯 Current Focus
 
 <div align="center">
-  <p>Atualmente, estou aprofundando meus conhecimentos em <strong>React</strong> e no desenvolvimento de interfaces reativas, aplicando os conceitos em projetos práticos para solidificar o aprendizado.</p>
+  <p>Currently, I'm deepening my knowledge of <strong>React</strong> and reactive UI development by applying concepts to hands-on projects.</p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
 
@@ -32,7 +32,7 @@
 
 <div align="center">
 
-### 🚀 Tecnologias e Ferramentas
+### 🚀 Technologies & Tools
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -58,10 +58,10 @@
 
 <div align="center">
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Stats
 
-![Estatísticas do GitHub de edukamoz](https://github-readme-stats.vercel.app/api?username=edukamoz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![Top Linguagens de edukamoz](https://github-readme-stats.vercel.app/api/top-langs/?username=edukamoz&layout=compact&langs_count=7&theme=dracula)
+![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=edukamoz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Eduardo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edukamoz&layout=compact&langs_count=7&theme=dracula)
 
 </div>
 
@@ -69,57 +69,57 @@
 
 <div align="center">
 
-### ⚡ Minhas Atividades Recentes
+### ⚡ My Recent Activity
 
-![Gráfico de Atividade do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=edukamoz&theme=dracula&hide_border=true&area=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=edukamoz&theme=dracula&hide_border=true&area=true)
 
 </div>
 
 ---
 
-### 📌 Projetos em Destaque
+### 📌 Featured Project
 
 <div align="center">
 
-**Projeto Verdin**
-*Projeto Full-Stack de um site para gestão financeira pessoal, com foco em uma experiência de usuário limpa e funcionalidades robustas de back-end.*
+**Verdin Project**
+*A Full-Stack personal finance management website focused on a clean user experience and robust back-end features.*
 <br><br>
 <p>
   <a href="https://github.com/edukamoz/verdin" target="_blank">
-    <img src="https://img.shields.io/badge/Ver%20C%C3%B3digo-000000?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white">
   </a>
   &nbsp;
   <a href="https://edukamoz.github.io/verdin/" target="_blank">
-    <img src="https://img.shields.io/badge/Ver%20Demonstra%C3%A7%C3%A3o-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white">
+    <img src="https://img.shields.io/badge/Live%20Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
 </p>
 <a href="https://github.com/edukamoz/verdin" target="_blank">
-  <img src="verdin.gif" alt="Preview do Projeto Verdin">
+  <img src="verdin.gif" alt="Preview of the Verdin Project">
 </a>
 <br>
 
-*Tecnologias: `HTML`, `CSS`, `TypeScript`, `Express`, `Node.js`, `PostgreSQL`*
+*Technologies: `HTML`, `CSS`, `TypeScript`, `Express`, `Node.js`, `PostgreSQL`*
 
 </div>
 
 ---
 
-### ☕ Hobbies e Interesses
+### ☕ Hobbies & Interests
 
 <div align="center">
   <table align="center">
     <tr>
-      <td align="center">📚 Leitura</td>
-      <td align="center">🎮 Games</td>
-      <td align="center">🎬 Séries & Filmes</td>
+      <td align="center">📚 Reading</td>
+      <td align="center">🎮 Gaming</td>
+      <td align="center">🎬 Series & Movies</td>
     </tr>
     <tr>
-      <td align="center">⛰️ Trilhas</td>
+      <td align="center">⛰️ Hiking</td>
       <td align="center">🐾 Pets</td>
-      <td align="center">🎵 Música</td>
+      <td align="center">🎵 Music</td>
     </tr>
      <tr>
-      <td align="center" colspan="3">✈️ Viajar e aproveitar a vida!</td>
+      <td align="center" colspan="3">✈️ Traveling and enjoying life!</td>
     </tr>
   </table>
 </div>
@@ -127,5 +127,5 @@
 <br>
 
 <div align="center">
-Desenvolvido com ❤️ por Eduardo
+Developed with ❤️ by Eduardo
 </div>
