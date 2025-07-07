@@ -68,7 +68,11 @@
 
 ---
 
+<div align="center">
+
 ### 💻 WakaTime Stats
+</div>
+
 ---
 
 <div align="center">
