@@ -21,9 +21,10 @@
 
 ---
 
-### 🎯 Current Focus
-
 <div align="center">
+
+  ### 🎯 Current Focus
+  
   <p>Currently, I'm deepening my knowledge of <strong>React</strong> and reactive UI development by applying concepts to hands-on projects.</p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
@@ -67,12 +68,7 @@
 
 ---
 
-<div align="center">
-
 ### 💻 WakaTime Stats
-
-</div>
-
 ---
 
 <div align="center">
@@ -85,9 +81,9 @@
 
 ---
 
-### 📌 Featured Project
-
 <div align="center">
+
+### 📌 Featured Project
 
 **Verdin Project**
 *A Full-Stack personal finance management website focused on a clean user experience and robust back-end features.*
@@ -112,9 +108,10 @@
 
 ---
 
-### ☕ Hobbies & Interests
-
 <div align="center">
+
+  ### ☕ Hobbies & Interests
+  
   <table align="center">
     <tr>
       <td align="center">📚 Reading</td>
