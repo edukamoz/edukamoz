@@ -2,7 +2,6 @@ name: Update Profile README
 
 on:
   schedule:
-    # Roda a cada 8 horas
     - cron: '0 */8 * * *'
   workflow_dispatch:
 
@@ -11,13 +10,12 @@ jobs:
     name: Update README with Metrics
     runs-on: ubuntu-latest
     steps:
+      # Usando a action do Athul, mas com a branch 'main'
       - uses: actions/checkout@v2
-      - uses: athul/waka-readme-stats@master
+      - uses: athul/waka-readme-stats@main 
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.PAT }}
-
-          # Opções da nova Action
           SHOW_TITLE: "true"
           SHOW_TOTAL: "true"
           SHOW_MASKED_TIME: "false"
