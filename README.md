@@ -67,6 +67,10 @@
 
 ---
 
+### 💻 Métricas de Codificação (WakaTime)
+
+---
+
 <div align="center">
 
 ### ⚡ My Recent Activity
@@ -125,7 +129,3 @@
 </div>
 
 <br>
-
-<div align="center">
-Developed with ❤️ by Eduardo
-</div>
