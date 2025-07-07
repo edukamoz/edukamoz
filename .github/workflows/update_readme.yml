@@ -6,16 +6,18 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme:
-    name: Update README with Metrics
+  build:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+    name: Update README with WakaTime stats
+
     steps:
-      # Usando a action do Athul, mas com a branch 'main'
-      - uses: actions/checkout@v2
-      - uses: athul/waka-readme-stats@main 
+      - uses: actions/checkout@v3
+      - name: Update WakaTime stats
+        uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.PAT }}
-          SHOW_TITLE: "true"
-          SHOW_TOTAL: "true"
-          SHOW_MASKED_TIME: "false"
+          SECTION_NAME: "WAKATIME"
+          SHOW_EDITORS: "true"
