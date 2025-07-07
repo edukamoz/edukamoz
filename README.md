@@ -67,7 +67,7 @@
 
 ---
 
-### 💻 Métricas de Codificação (WakaTime)
+### 💻 WakaTime Stats
 
 ---
 
