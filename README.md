@@ -72,6 +72,8 @@
 
 ### 💻 WakaTime Stats
 
+![My WakaTime Coding Stats](https://wakatime.com/share/@edukamoz/8ee610ef-d6ea-4910-8a7d-06d80aa8431e.svg)
+
 </div>
 
 ---
