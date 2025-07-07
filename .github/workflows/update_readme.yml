@@ -1,0 +1,40 @@
+# Nome do workflow que aparecerá na aba "Actions"
+name: Update Profile README
+
+# Gatilhos: quando a action deve rodar
+on:
+  # Roda em um cronograma (a cada 8 horas neste exemplo)
+  schedule:
+    - cron: '0 */8 * * *'
+  # Permite que você rode manualmente pela aba "Actions"
+  workflow_dispatch:
+
+# Lista de "trabalhos" a serem executados
+jobs:
+  # Nome do job (pode ser qualquer nome)
+  build:
+    # O tipo de máquina virtual para rodar o job
+    runs-on: ubuntu-latest
+    name: Update README with WakaTime stats
+
+    # Sequência de passos que o job executará
+    steps:
+      # 1. Faz o "checkout" do seu código do repositório para a máquina virtual
+      - uses: actions/checkout@v3
+
+      # 2. Roda a action do WakaTime para gerar e inserir o gráfico no README
+      - name: Update WakaTime stats
+        uses: anmol098/waka-readme-stats@master
+        with:
+          # Sua chave de API do WakaTime, que será lida dos Secrets
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          # Token do GitHub, gerado automaticamente pela action
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Onde a action deve inserir o gráfico no README
+          SECTION_NAME: "WAKATIME"
+          # Opções de customização (opcional)
+          SHOW_EDITORS: "true"
+          SHOW_OS: "false"
+          SHOW_PROJECTS: "false"
+          SHOW_TIMEZONE: "false"
+          LAYOUT: "compact"
