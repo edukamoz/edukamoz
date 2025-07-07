@@ -1,7 +1,6 @@
 # Nome do workflow que aparecerá na aba "Actions"
 name: Update Profile README
-permissions:
-  contents: write
+
 # Gatilhos: quando a action deve rodar
 on:
   # Roda em um cronograma (a cada 8 horas neste exemplo)
@@ -14,6 +13,11 @@ on:
 jobs:
   # Nome do job (pode ser qualquer nome)
   build:
+    # <<-- ADICIONE ESTE BLOCO DE PERMISSÕES AQUI
+    # Concede à Action permissão para escrever no repositório
+    permissions:
+      contents: write
+
     # O tipo de máquina virtual para rodar o job
     runs-on: ubuntu-latest
     name: Update README with WakaTime stats
