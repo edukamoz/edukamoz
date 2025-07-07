@@ -69,6 +69,8 @@
 
 ### 💻 WakaTime Stats
 
+![My Stats on WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=edukamoz&theme=dracula&layout=compact)
+
 ---
 
 <div align="center">
