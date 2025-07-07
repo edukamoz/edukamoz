@@ -37,4 +37,3 @@ jobs:
           SHOW_OS: "false"
           SHOW_PROJECTS: "false"
           SHOW_TIMEZONE: "false"
-          LAYOUT: "compact"
