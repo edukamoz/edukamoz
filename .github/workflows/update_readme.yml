@@ -31,7 +31,7 @@ jobs:
           # Token do GitHub, gerado automaticamente pela action
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           # Onde a action deve inserir o gráfico no README
-          SECTION_NAME: "WAKATIME"
+          SECTION_NAME: "WakaTime Stats"
           # Opções de customização (opcional)
           SHOW_EDITORS: "true"
           SHOW_OS: "false"
