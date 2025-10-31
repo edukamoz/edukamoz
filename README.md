@@ -61,7 +61,7 @@
 
 ### 📊 GitHub Stats
 
-![Eduardo's GitHub Stats](https://github-readme-stats-znkh-git-main-edukamozs-projects.vercel.app/)
+![Eduardo's GitHub Stats](https://github-readme-stats-znkh.vercel.app/)
 ![Eduardo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edukamoz&layout=compact&langs_count=7&theme=dracula)
 
 </div>
