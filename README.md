@@ -35,13 +35,6 @@
 
 ### 🚀 Technologies & Tools
 
-<details>
-  <summary>Clique para ver detalhes</summary>
-  
-  Aqui está o conteúdo oculto que só aparece quando você clica.
-  Você pode incluir texto, listas, blocos de código e mais Markdown aqui.
-</details>
-
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
