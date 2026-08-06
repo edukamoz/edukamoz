@@ -49,7 +49,7 @@ I am a **Mobile Developer** dedicated to bridging the gap between robust backend
         <br>TypeScript
       </td>
         <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" width="45" height="45" alt="Expo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-line.svg" width="45" height="45" alt="Expo" />
         <br>Expo
       </td>
       <td align="center" width="120">
@@ -57,7 +57,7 @@ I am a **Mobile Developer** dedicated to bridging the gap between robust backend
         <br>Python
       </td>
       <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45" alt="AWS" />
         <br>AWS
       </td>
     </tr>
@@ -124,7 +124,3 @@ I am a **Mobile Developer** dedicated to bridging the gap between robust backend
 <br/>
 
 <hr/>
-
-<div align="center">
-  <small>Let's connect and build something amazing! 🚀</small>
-</div>
